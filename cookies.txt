@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.growoyun.com	TRUE	/	FALSE	1999999999	QW5rYS51c2VyLmxhbmd1	1
+www.growoyun.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	h2cn45ed2zyefp5nisq01qoj
+www.growoyun.com	TRUE	/	FALSE	1999999999	QW5rYS51c2VyLmd1ZXN0	d61643b0-1170-47a3-a649-3df47b588b47
+www.growoyun.com	TRUE	/	FALSE	1999999999	QW5rYS51c2VyaHZzeHhp	905e3071-d4d3-415b-a42d-fe1f56257f35
+www.growoyun.com	TRUE	/	FALSE	1999999999	aHZzeHhpZXlhYmNkZWZn	TwgT3Ai1A7bwanYjjxxZAjEYadopM2IPDd7X3k5SuUUCiQtLTRTo1PArsT_rBKzKdhUCQ64VwU7CO8jDqOJMlAwATSA1
+www.growoyun.com	TRUE	/	FALSE	1999999999	Anka-Affinity	c9ca4ad19f7ea9fd8563739635fa74f8cf0d8f4410b4577fea9db2a8c1f7ed2d
+www.growoyun.com	TRUE	/	FALSE	1999999999	ZXh0ZXJuYWxBdXRoUmV0	/donate
+www.growoyun.com	TRUE	/	FALSE	1999999999	SameSite	None
+
